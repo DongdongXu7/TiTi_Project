@@ -1,0 +1,168 @@
+[2024-01-25T22:56:22.647] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=1',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': '2cb2d749-fee8-44e0-8b42-3c125c87507c',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '1' },
+  body: {}
+}
+[2024-01-25T22:56:22.661] [INFO] default - {"code":"success","data":{"_id":"65b2765b0b602b064d7507ec"}}
+[2024-01-25T23:19:23.842] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=1',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': '77504048-21a2-4488-9487-8d5c329fd48d',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '1' },
+  body: {}
+}
+[2024-01-25T23:19:23.852] [INFO] default - {"code":"success","data":null}
+[2024-01-25T23:19:49.080] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=%221%22',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': '398cd43e-06d8-48d7-9546-6c2415bea081',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '"1"' },
+  body: {}
+}
+[2024-01-25T23:19:49.083] [INFO] default - {"code":"success","data":null}
+[2024-01-25T23:22:40.406] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=%221%22',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': '370f9191-99f9-4d3d-a613-71e13879d992',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '"1"' },
+  body: {}
+}
+[2024-01-25T23:24:28.983] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=%221%22',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': 'd7019fe0-54a4-4632-ac93-d0bbda9ee115',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '"1"' },
+  body: {}
+}
+[2024-01-25T23:27:01.324] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=%221%22',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': '0a704ab0-c02e-4f4c-bae1-3454a66d6812',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '"1"' },
+  body: {}
+}
+[2024-01-25T23:27:01.347] [INFO] default - {"code":"success","data":null}
+[2024-01-25T23:28:26.117] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=%221%22',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': 'c2b169ec-1d20-40b6-8e3b-09b5b6b8bb2d',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '"1"' },
+  body: {}
+}
+[2024-01-25T23:28:26.128] [INFO] default - {"code":"success","data":null}
+[2024-01-25T23:28:36.259] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=1',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': '70ed4995-f6c6-4fd0-9ddf-450e34b77972',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '1' },
+  body: {}
+}
+[2024-01-25T23:28:36.272] [INFO] default - {"code":"success","data":{"_id":"65b2765b0b602b064d7507ec","workerUserId":"1","userName":"Xu001"}}
+[2024-01-25T23:29:05.618] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=1',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': '47bc18ad-c6bc-417a-ba79-c64f50e4a5ba',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '1' },
+  body: {}
+}
+[2024-01-25T23:29:05.630] [INFO] default - {"code":"success","data":{"_id":"65b2765b0b602b064d7507ec","workerUserId":"1","userName":"Xu001"}}
+[2024-02-01T22:42:33.245] [INFO] default - {
+  method: 'GET',
+  url: '/api/user?workerUserId=1',
+  hostname: 'localhost',
+  baseUrl: '',
+  headers: {
+    'user-agent': 'PostmanRuntime/7.36.1',
+    accept: '*/*',
+    'postman-token': 'acd5cfe2-367f-4d49-8aa5-50f971301e27',
+    host: 'localhost:3000',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  query: { workerUserId: '1' },
+  body: {}
+}
+[2024-02-01T22:42:33.348] [INFO] default - {"code":"success","data":{"_id":"65b2765b0b602b064d7507ec","workerUserId":"1","userName":"Xu001"}}

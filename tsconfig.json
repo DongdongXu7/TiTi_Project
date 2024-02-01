@@ -5,9 +5,12 @@
         "outDir": "./dist",
         "strict": true,
         "types": ["express"],
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true
     },
     "files": [
-        "./app.ts"
+        "./app.ts",
+        "./src/types/globals.d.ts"
     ]
 }
